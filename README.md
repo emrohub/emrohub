@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @emrohub
 - 👀 I’m interested in games and crocheting c:
-- 🌱 I’m currently learning python development!
+- 🌱 I’m currently learning web development!
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: my goal for now with programming is to create as many fun programs I can make use of as possible
+- ⚡ Fun fact: my goal for now with programming is to create as many fun programs I can!
 
 <!---
 emrohub/emrohub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
