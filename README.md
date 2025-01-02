@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emrohub
 - 👀 I’m interested in videogames and all things tech c:
-- 🌱 I’m currently learning web development!
+- 🌱 Uploading small to big projects I've done while improving my coding!
 - 😄 Pronouns: she/her
 
 <!---
